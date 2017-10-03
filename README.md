@@ -1,4 +1,4 @@
-# trial1
+# Vue js 2.0 HTTP req using vue resources
 
 > A Vue.js project
 
